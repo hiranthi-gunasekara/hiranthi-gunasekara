@@ -34,9 +34,8 @@ Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
  
 ✔️ AWS Certified Cloud Practitioner
 ✔️ Splunk – Data & Tools for Defense Analysts
-
 ✔️ AI Security & Governance – Securiti
-✔️ Ethical Hacking (Beginner Certification)  
+✔️ Ethical Hacking (Beginner Certification)
 
 📫 Connect with me  
 🌐 LinkedIn: www.linkedin.com/in/hiranthigunasekara 
