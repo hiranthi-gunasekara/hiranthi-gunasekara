@@ -7,6 +7,7 @@ Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
 🌱 I am passionate about securing systems, identifying vulnerabilities, and strengthening cyber defenses. Skilled in penetration testing, threat analysis, incident response, and secure system design.
 
 🛡️ Cybersecurity Interests
+
 •	Penetration Testing  
 •	Vulnerability Assessment  
 •	Network Security  
@@ -15,6 +16,7 @@ Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
 •	Secure Configuration
 
 🧰 Tech & Tools
+
 •	Security: Splunk, Sentinel, IDS/IPS, SIEM
 •	Pentesting: Burp Suite, Nmap, Wireshark, Metasploit  
 •	Cloud: Azure, AWS  
@@ -22,11 +24,13 @@ Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
 •	Monitoring: Elasticsearch, Kibana, Grafana   
 
 📚 Currently Learning
+
 •	Cloud Security (AWS/Azure)  
 •	Malware Analysis  
 •	OSCP Preparation 
 
  🛡️ Certifications I Have Completed
+ 
 ✔️ AWS Certified Cloud Practitioner
 ✔️ Splunk – Data & Tools for Defense Analysts  
 ✔️ AI Security & Governance – Securiti
