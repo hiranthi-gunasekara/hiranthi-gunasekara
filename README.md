@@ -29,13 +29,6 @@ Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
 •	Malware Analysis  
 •	OSCP Preparation 
 
- 🛡️ Certifications I Have Completed
- 
-• AWS Certified Cloud Practitioner
-• Splunk – Data & Tools for Defense Analysts
-• AI Security & Governance – Securiti
-• Ethical Hacking (Beginner Certification)
-
 📫 Connect with me  
 🌐 LinkedIn: www.linkedin.com/in/hiranthigunasekara 
 
