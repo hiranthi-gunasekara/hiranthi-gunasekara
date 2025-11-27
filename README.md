@@ -18,6 +18,7 @@ Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
 🧰 Tech & Tools
 
 •	Security: Splunk, Sentinel, IDS/IPS, SIEM
+
 •	Pentesting: Burp Suite, Nmap, Wireshark, Metasploit  
 •	Cloud: Azure, AWS  
 •	Programming: Python, Bash, PowerShell  
@@ -32,7 +33,8 @@ Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
  🛡️ Certifications I Have Completed
  
 ✔️ AWS Certified Cloud Practitioner
-✔️ Splunk – Data & Tools for Defense Analysts  
+✔️ Splunk – Data & Tools for Defense Analysts
+
 ✔️ AI Security & Governance – Securiti
 ✔️ Ethical Hacking (Beginner Certification)  
 
